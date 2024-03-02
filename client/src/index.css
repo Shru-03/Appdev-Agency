@@ -1036,40 +1036,4 @@ header .menu {
 }
 
 
-@media (max-width: 1000px) {
-  /* Existing code for other styles */
 
-  /* Centering headings */
-  .heading {
-    text-align: center;
-  }
-
-  /* Centering the review text */
-  .review-text {
-    text-align: center;
-  }
-
-  /* Centering the about section heading */
-  .about h1 {
-    text-align: center;
-  }
-}
-
-@media (max-width: 600px) {
-  /* Existing code for other styles */
-
-  /* Centering headings */
-  .heading {
-    text-align: center;
-  }
-
-  /* Centering the review text */
-  .review-text {
-    text-align: center;
-  }
-
-  /* Centering the about section heading */
-  .about h1 {
-    text-align: center;
-  }
-}
